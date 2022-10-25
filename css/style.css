@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.but {
+    position: fixed !important;
+    top: 10px !important;
+    left: 45vw !important;
+    background-color: aqua !important;
+    margin-bottom: 100px !important;
+    padding: 15px 25px !important;
+    border-radius: 100% !important;
+    cursor: pointer !important;
+    color: rgb(126, 62, 147) !important;
+    z-index: 1 !important;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    background-color: #f22162;
+    justify-content: center;
+    align-items: center;
+}
+
+.container svg {
+    height: 80%;
+    width: 100%;
+}
