@@ -16,7 +16,7 @@ arr1.forEach((b1) => {
       } else if (string == "4") {
         window.location = "../files/wish1.html";
       } else if (string == "5") {
-        window.location = "../files/index.html";
+        window.location = "../files/emoji_suprise.html";
       } else if (string == "6") {
         window.location = "../files/wish1.html";
       } else if (string == "7") {

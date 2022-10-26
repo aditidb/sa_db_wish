@@ -7,6 +7,8 @@ function myFunc() {
     window.location = "../files/wish.html";
   } else if (check_a == "craker") {
     window.location = "../files/wish1.html";
+  } else if (check_a == "sa") {
+    window.location = "../files/emoji_suprise.html";
   } else {
     window.location = "../files/index.html";
   }
